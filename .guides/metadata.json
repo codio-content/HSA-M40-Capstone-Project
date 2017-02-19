@@ -1,0 +1,100 @@
+{
+ "sections": [
+  {
+   "id": "a32acadc-313b-d40f-65d7-4f34c7c13a21",
+   "title": "Capstone Overview",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Capstone-Overview-a32a.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2512a8c7-dc5b-ef97-bf9b-d915f770ea21",
+   "title": "Identify a Problem",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Identify-a-Problem-2512.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "24dfe6fe-7b58-7a89-958b-73e013954258",
+   "title": "Propose a Solution",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Propose-a-Solution-24df.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3815599c-10ba-e101-3a72-eb83f61a2ec5",
+   "title": "Create a Prototype",
+   "files": [],
+   "layout": "1-panel-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Create-a-Prototype-3815.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ca04ec70-2b93-265c-2a4d-36a27091f818",
+   "title": "Seek Feedback",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Seek-Feedback-ca04.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "fc461f87-6b2b-e41c-c1de-f2bbbf39dad6",
+   "title": "Revise Product",
+   "files": [],
+   "layout": "1-panel-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Revise-Product-fc46.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "db3070ed-d5be-9e56-f46f-80924638f452",
+   "title": "Go to Market",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Go-to-Market-db30.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d416cdc2-ec76-3484-ff11-fd9ffa775863",
+   "title": "Reflections on Process and Product",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Reflections-on-Process-and-Product-d416.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
